@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    //Create a vector to hold the phone numbers
+    //Create a vector to hold the voters (phone #s)
   
 
     ifstream fin;
